@@ -3,10 +3,10 @@
 Bu proje, C# ve Socket programlama kullanılarak oluşturulmuş basit bir sunucu-istemci (server-client) sohbet uygulamasıdır.
 Kullanıcılar, sunucuya bağlanarak gerçek zamanlı mesajlaşma gerçekleştirebilirler.
 
-📂 Proje Yapısı
-Chat_Socket/
-├── ChatServer/   → Sunucu tarafı uygulaması
-└── ChatClient/   → İstemci tarafı uygulaması
+📂 Proje Yapısı  
+Chat_Socket/  
+├── ChatServer/   → Sunucu tarafı uygulaması  
+└── ChatClient/   → İstemci tarafı uygulaması  
 
 
 ⚙️ Özellikler
